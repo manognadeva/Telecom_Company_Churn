@@ -1,4 +1,4 @@
-# 📊 Telecom Company Analytics Dashboard
+# 📊 Telecom Company Power BI Dashboard
 
 This repository contains interactive Power BI dashboards built using real-world datasets from a Telecom company. The visualizations focus on two core areas:
 
